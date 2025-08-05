@@ -1,16 +1,16 @@
-<h2 align="left">Hi 👋 My name is Vinicius Gabriel<br>and I'm starting as a dev, in Natal RN - Brazil</h2>
+<h1 align="left">Hi 👋 My name is Vinicius Gabriel<br>and I'm starting as a dev, in Natal RN - Brazil</h1>
 
 ###
 
-<h5 align="left">About Me<br>I'm a Computer Networks student at IFRN and a graduate of the Web Development course at EALRN. Passionate about both development and infrastructure, I am currently preparing for a career in DevOps.<br><br>I continuously study and practice key technologies including HTML, CSS, JavaScript, TypeScript, Python, PHP, Docker, and Git, focusing on web development and automation.<br><br>My goal is to combine my knowledge of networking, programming, and DevOps to build efficient, scalable, and reliable solutions.</h5>
+<h4 align="left">About Me<br>I'm a Computer Networks student at IFRN and a graduate of the Web Development course at EALRN. Passionate about both development and infrastructure, I am currently preparing for a career in DevOps.<br><br>I continuously study and practice key technologies including HTML, CSS, JavaScript, TypeScript, Python, PHP, Docker, and Git, focusing on web development and automation.<br><br>My goal is to combine my knowledge of networking, programming, and DevOps to build efficient, scalable, and reliable solutions.</h4>
 
 ###
 
-<h6 align="left">🌍  I'm based in Natal RN - Brazil<br>✉️  You can contact me at: praxedesvinicius12@gmail.com<br>🧠  I'm learning HTML, CSS, JavaScript, TypeScript, Python, PHP, Docker, Git, DevOps concepts and tools.<br>🤝  I'm open to collaborating on Interesting projects related to web development, automation, or DevOps.</h6>
+<h5 align="left">🌍  I'm based in Natal RN - Brazil<br>✉️  You can contact me at: praxedesvinicius12@gmail.com<br>🧠  I'm learning HTML, CSS, JavaScript, TypeScript, Python, PHP, Docker, Git, DevOps concepts and tools.<br>🤝  I'm open to collaborating on Interesting projects related to web development, automation, or DevOps.</h5>
 
 ###
 
-<h4 align="left">Skills</h4>
+<h3 align="left">Skills</h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h4 align="left">Socials</h4>
+<h3 align="left">Socials</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h4 align="left">My GitHub Stats</h4>
+<h3 align="left">My GitHub Stats</h3>
 
 ###
 
@@ -61,3 +61,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius98234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius98234/Vinicius98234/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinicius98234/Vinicius98234/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vinicius98234/Vinicius98234/output/pacman-contribution-graph.svg">
+</picture>
+
+###
